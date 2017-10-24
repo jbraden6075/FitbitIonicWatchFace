@@ -1,0 +1,4 @@
+<svg class="background" viewpoint-fill= "yellow">
+  <image width="200" height="200" href="Zelda348x250.png"/>
+  <text id="myLabel" />
+</svg>

@@ -1,0 +1,1 @@
+{"appManifestVersion":1,"main":"app/index.js","svgMain":"resources/index.gui","svgWidgets":"resources/widgets.gui","appType":"clockface","buildId":"0x00717f6d8545fb4e","uuid":"be023bf6-efb8-40f5-9fcf-e464e8e3a25d","name":"Watch Face","bundleDate":"2017-10-24T17:34:08.977Z","requestedPermissions":["access_activity","access_heart_rate"],"iconFile":"resources/icon.png"}
